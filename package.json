@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate-es6",
+  "version": "1.0.0",
+  "description": "Express boilerplate for building REST APIs using ES6",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshkathayat/node-boilerplate-es6.git"
+  },
+  "keywords": [
+    "nodejs",
+    "es6",
+    "rest",
+    "express",
+    "boilerplate",
+    "classes",
+    "javascript"
+  ],
+  "author": "Yogesh Singh Kathayat",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/yogeshkathayat/node-boilerplate-es6/issues"
+  },
+  "homepage": "https://github.com/yogeshkathayat/node-boilerplate-es6#readme"
+}
