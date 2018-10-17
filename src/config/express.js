@@ -10,7 +10,6 @@ const routes = require('../api/routes/v1');
 const { logs } = require('./vars');
 const strategies = require('./passport');
 const error = require('../api/middlewares/error');
-var session = require('express-session')
 /**
 * Express instance
 * @public
